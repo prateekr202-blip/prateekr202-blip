@@ -15,7 +15,7 @@
 
 
 ## 🏆 Contribution Graph:
-![]([https://github-profile-trophy.vercel.app/?username=prateekr202-blip&theme=dark&no-frame=false&no-bg=true&margin-w=4)])(https://github-readme-activity-graph.vercel.app/graph?username=prateekr202-blip)
+![](https://github-readme-activity-graph.vercel.app/graph?username=prateekr202-blip)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prateekr202-blip&limit=5&theme=dark&combine_all_yearly_contributions=true)
